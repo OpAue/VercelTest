@@ -7,7 +7,7 @@ import {
   deleteDiary,
   fetchDiaries,
   updateDiary,
-} from "../api/api";
+} from "./api/api";
 import Home from "./pages/Home";
 import Diary from "./pages/Diary";
 import New from "./pages/New";
